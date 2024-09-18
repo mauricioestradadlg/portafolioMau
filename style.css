@@ -292,6 +292,11 @@ header{
     width: 210px;
   }
 
+  #imgGrinsa{
+    height: 180px;
+    width: 320px;
+  }
+
 #web, #gitHub{
     color: white;
     font-size: 20px;
